@@ -6,12 +6,10 @@
 
 ## A propos
 
-<h4 align="center">Ce projet a été réalisé par Cassandra Nguyen, Roumaissa Omari, Célina Abidi et Matthias Czerwinski </h4>
-
-Nous avons voulu créer un jeu Mastermind avec de vraies intéractions via les commandes sur le terminal. (Si vous avez PyCharm c'est parfait)
-Cependant nous avons eu du mal à mettre en place un système de scoring/session pour chaque joueur qui nous permettrait d'avoir le Multiple Runs et Stats.
-Si nous pourrions avoir des explications pour une éventuelle correction plus tard pour nous éclairer, ce serait parfait. 
-
+This project was realized by Cassandra Nguyen, Roumaissa Omari, Célina Abidi and Matthias Czerwinski 
+The project consisted in coding the Mastermind game including 2 artificial intelligences
+-Object oriented in Python
+-Algorithms applied to a game problem.
 ## Fonctionnement
 
 
